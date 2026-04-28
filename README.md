@@ -85,7 +85,7 @@ plt.show()
 ```
 ## Output
 
-[i] Read and Display an Image.
+### Read and Display an Image.
 ![alt text](image.png)
 
 a.Save image as PNG and display:
@@ -97,17 +97,17 @@ b.Cropped image
 c.Resize and flip Horizontally:
 ![alt text](image-3.png)
 
-[ii] Adjust Image Brightness.
+### Adjust Image Brightness.
 
 a.Create brighter and darker images and display:
 ![alt text](image-4.png)
 
-[iii] Modify Image Contrast.
+### Modify Image Contrast.
 
 a.Modify contrast using scaling factors 1.1 and 1.2
 ![alt text](image-5.png)
 
-[iv] Generate Third Image Using Bitwise Operations.
+### Generate Third Image Using Bitwise Operations.
 
 a.Split 'Boy.jpg' into B, G, R components and display:
 ![alt text](image-6.png)
