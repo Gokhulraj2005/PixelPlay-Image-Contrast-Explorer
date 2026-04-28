@@ -82,7 +82,7 @@ plt.title("Higher Contrast")
 plt.axis("off")
 
 plt.show()
-
+```
 ## Output
 
 i) Read and Display an Image.
